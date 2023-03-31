@@ -92,4 +92,5 @@ wcwidth==0.2.6
 Werkzeug==2.2.3
 widgetsnbextension==4.0.7
 wrapt==1.15.0
+xgboost==1.7.5
 zipp==3.15.0
